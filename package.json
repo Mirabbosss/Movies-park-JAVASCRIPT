@@ -1,0 +1,22 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "Movies and films",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tailwindcss -i ./dist/input.css -o ./dist/output.css --watch"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "tailwind",
+    "css",
+    "js"
+  ],
+  "author": "Mirabbos-Dev",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
